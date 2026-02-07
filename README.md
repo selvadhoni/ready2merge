@@ -1,12 +1,25 @@
-<align center>
-  <img src="https://raw.githubusercontent.com/selvadhoni/ready2merge/main/icon.png" width="128" />
-  <h1>Ready2Merge</h1>
-  <p><b>Master the DNA of any codebase. Merge with absolute confidence.</b></p>
-  <p>
-    <a href="https://github.com/selvadhoni/ready2merge/blob/main/icon.png">PNG Icon</a> • 
-    <a href="https://github.com/selvadhoni/ready2merge/blob/main/icon.svg">SVG Vector</a>
-  </p>
-</align>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/selvadhoni/ready2merge/main/icon.png" width="160" alt="Ready2Merge Logo" />
+</p>
+
+<h1 align="center">Ready2Merge</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/visual-studio-marketplace/v/selvakannanr.ready2merge?style=flat-square&color=2ECC71" alt="Version" />
+  <img src="https://img.shields.io/visual-studio-marketplace/i/selvakannanr.ready2merge?style=flat-square&color=27AE60" alt="Installs" />
+  <img src="https://img.shields.io/github/license/selvadhoni/ready2merge?style=flat-square&color=1ABC9C" alt="License" />
+</p>
+
+<p align="center">
+  <b>Master the DNA of any codebase. Merge with absolute confidence.</b><br>
+  <i>A professional-grade insight engine that learns your team's unique patterns.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/selvadhoni/ready2merge/blob/main/icon.png">PNG Icon</a> • 
+  <a href="https://github.com/selvadhoni/ready2merge/blob/main/icon.svg">SVG Vector</a> •
+  <a href="https://github.com/selvadhoni/ready2merge/issues">Report Bug</a>
+</p>
 
 ---
 
