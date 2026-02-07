@@ -12,8 +12,17 @@ No external rules. No forced "best practices." Just your team's code, analyzed l
 
 ---
 
-## 📽️ Experience Ready2Merge
-*(Recommended: Insert a 10-second GIF here showing the Output Panel jumping to code via a clickable link)*
+## 🧬 The Ready2Merge DNA Analysis
+Ready2Merge doesn't just scan files; it understands your project's soul.
+
+```text
+[ Project DNA Scan ] ➔ Found 1,240 patterns
+  ├── Identifiers ...... [ camelCase ]  ✅
+  ├── Logic Patterns ... [ Stable ]     ✅
+  └── Docker Casing .... [ UPPERCASE ]  ✅
+
+[ Result: Staged changes are 100% consistent. Ready to Merge. ]
+```
 
 ---
 
