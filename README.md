@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/selvadhoni/ready2merge/main/icon.png" width="128" />
   <h1>Ready2Merge</h1>
   <p><b>Master the DNA of any codebase. Merge with absolute confidence.</b></p>
+  <p>
+    <a href="https://github.com/selvadhoni/ready2merge/blob/main/icon.png">PNG Icon</a> • 
+    <a href="https://github.com/selvadhoni/ready2merge/blob/main/icon.svg">SVG Vector</a>
+  </p>
 </align>
 
 ---
