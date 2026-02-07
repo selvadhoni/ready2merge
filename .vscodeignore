@@ -1,0 +1,13 @@
+.vscode/**
+.vscode-test/**
+out/test/**
+src/**
+.gitignore
+tsconfig.json
+vsc-extension-quickstart.md
+CHANGELOG.md-old
+**/*.map
+.ready2merge/**
+node_modules/**
+package-lock.json
+!node_modules/

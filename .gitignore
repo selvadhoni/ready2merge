@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Compiled Output
+out/
+dist/
+
+# Extension Packaging
+*.vsix
+
+# Testing
+.vscode-test/
+
+# Source Maps
+**/*.map
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Project Baseline (Optional: Keep it if you want to share DNA, but ignore temp scan files if any)
+# .ready2merge/
